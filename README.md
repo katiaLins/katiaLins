@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&color=BD93F9&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+K%C3%A1tia+Lins;Especialista+em+Tecnologia+da+Informa%C3%A7%C3%A3o;Apaixonada+por+Ciberseguran%C3%A7a" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&color=BD93F9&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+K%C3%A1tia+Lins;Especialista+em+Tecnologia+da+Informa%C3%A7%C3%A3o;Apaixonada+por+Ciberseguran%C3%A7a" alt="Typing SVG" /></a>
 </div>
 
 👩‍💻 Com mais de uma década de experiência prática em infraestrutura de TI e suporte, trago um conhecimento profundo de como os sistemas funcionam e como os usuários interagem com eles, uma base essencial para criar defesas de segurança que são tanto robustas quanto eficazes no dia a dia.
